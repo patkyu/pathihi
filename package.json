@@ -1,0 +1,38 @@
+{
+  "name": "react-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "11.11.1",
+    "@emotion/styled": "11.11.0",
+    "@mui/base": "5.0.0-alpha.123",
+    "@mui/material": "5.14.1",
+    "@mui/styles": "5.11.13",
+    "@mui/system": "5.11.15",
+    "@mui/utils": "5.11.13",
+    "@types/react": "18.0.29",
+    "mui": "0.0.1",
+    "react": "18.2.0",
+    "react-bootstrap": "1.0.0-beta.16",
+    "react-dom": "18.2.0",
+    "react-scripts": "3.0.1",
+    "src": "1.1.2"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
